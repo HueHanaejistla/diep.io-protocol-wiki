@@ -7,8 +7,8 @@ Note: Due to growing controversy on the r/diep.io subreddit and other diep.io co
 
 ## Contributors
 While I am currently the only one working on this wiki, I would like to thank several people for helping me to decipher the protocol.
-I thank RenegadeBB for helping me on the decompression of compressed packets
-I thank diep.io#7444 for his very helpful insights on the structure of the information packet
-I thank shlong, Innocent, Askeys, and many others for giving me the encouragement to pursue my goals
-I thank Shädam because he told me I couldn't do anything so I tried harder to prove that I could (lol)
-I thank Pola, CX, FlorianCassayre, and firebolt55439 for their original work on decoding the protocol, which helped to get me on my feet
+I thank RenegadeBB for helping me on the decompression of compressed packets. \n
+I thank diep.io#7444 for his very helpful insights on the structure of the information packet. \n
+I thank shlong, Innocent, Askeys, and many others for giving me the encouragement to pursue my goals. \n
+I thank Shädam because he told me I couldn't do anything so I tried harder to prove that I could (lol). \n
+And I thank Pola, CX, FlorianCassayre, and firebolt55439 for their original work on decoding the protocol, which helped to get me on my feet.
