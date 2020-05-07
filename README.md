@@ -11,4 +11,5 @@ I thank RenegadeBB for helping me on the decompression of compressed packets. <b
 I thank diep.io#7444 for his very helpful insights on the structure of the information packet. <br/>
 I thank shlong, Innocent, Askeys, and many others for giving me the encouragement to pursue my goals. <br/>
 I thank Shädam because he told me I couldn't do anything so I tried harder to prove that I could (lol). <br/>
+I thank my fellow dev-friends Cazka, nilpy, Kali, and several others for inspiring me with new ideas. <br/>
 And I thank Pola, CX, FlorianCassayre, and firebolt55439 for their original work on decoding the protocol, which helped to get me on my feet.
